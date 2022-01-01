@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616331963382",
+    "project_id": "tchakolo",
+    "storage_bucket": "tchakolo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616331963382:android:6c597caf995956882935d7",
+        "android_client_info": {
+          "package_name": "cm.tchakolo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616331963382-amv60khku3f7jouv2ffk3e93am4jis35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjHsahqgrvszsOFzI3BFRp6sMB261LKDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616331963382-amv60khku3f7jouv2ffk3e93am4jis35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
