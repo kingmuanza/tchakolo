@@ -1,11 +1,5 @@
 # Uncomment this line to define a global platform for your project
 platform :ios, '10.0'
-pod 'Firebase/Analytics' #ATTENTION PLEASE SHOULD I ADD THESE PODS HERE?
-pod 'Firebase/Auth'
-pod 'Firebase/Firestore'
-pod 'Firebase/Database'
-pod 'Firebase/Messaging'
-
 # CocoaPods analytics sends network stats synchronously affecting flutter build latency.
 ENV['COCOAPODS_DISABLE_STATS'] = 'true'
 
