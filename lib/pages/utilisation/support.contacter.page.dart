@@ -83,8 +83,8 @@ class _SupportContacterPageState extends State<SupportContacterPage> {
                         await FilePicker.platform.pickFiles();
                     if (result != null) {
                       print("ujdfuhdhuduhduhfs de resultat");
-                      print(result.files.single.name!);
-                      pieceJointe = result.files.single.name!;
+                      print(result.files.single.name);
+                      pieceJointe = result.files.single.name;
                       File file = File(pieceJointe);
                       pieceJointeControleur.text = pieceJointe;
                       setState(() {
